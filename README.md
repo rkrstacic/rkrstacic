@@ -31,6 +31,7 @@
   <a href="https://github.com/rkrstacic/Shop-Locator"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rkrstacic&repo=Shop-Locator&theme=react&bg_color=1F222E&title_color=7deb34&hide_border=true&icon_color=F8D866&show_icons=false" alt="Shop Locator"></a>
   <a href="https://github.com/rkrstacic/Software-module-for-answering-questions-on-processes"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rkrstacic&repo=Software-module-for-answering-questions-on-processes&theme=react&bg_color=1F222E&title_color=7deb34&hide_border=true&icon_color=F8D866&show_icons=false" alt="Software module for answering questions on processes"></a>
   <a href="https://github.com/rkrstacic/RedditScraping"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rkrstacic&repo=RedditScraping&theme=react&bg_color=1F222E&title_color=7deb34&hide_border=true&icon_color=F8D866&show_icons=false" alt="Reddit scraping"></a>
+  <a href="https://github.com/rkrstacic/SkySense"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rkrstacic&repo=SkySense&theme=react&bg_color=1F222E&title_color=7deb34&hide_border=true&icon_color=F8D866&show_icons=false" alt="SkySense"></a>
 
 </p>
 
